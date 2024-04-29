@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "217471639675",
+    "project_id": "uwabooking-f681c",
+    "storage_bucket": "uwabooking-f681c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217471639675:android:bfb4d1bc356788d3ea42de",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_hdzyRItt4dUhHUohov-0PsMjxiAqbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217471639675:android:b0b0563412c37b01ea42de",
+        "android_client_info": {
+          "package_name": "com.mycompany.uwabooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_hdzyRItt4dUhHUohov-0PsMjxiAqbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217471639675:android:5e0c652406b0f405ea42de",
+        "android_client_info": {
+          "package_name": "com.mycompany.uwabookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_hdzyRItt4dUhHUohov-0PsMjxiAqbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

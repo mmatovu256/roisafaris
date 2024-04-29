@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDp2f1NcO7lOAInsFaa09uYEJF46MQJwTI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217471639675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.uwabookingapp</string>
+	<key>PROJECT_ID</key>
+	<string>uwabooking-f681c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uwabooking-f681c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217471639675:ios:be16e6a4b684fe9dea42de</string>
+</dict>
+</plist>
